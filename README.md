@@ -9,7 +9,7 @@ src/test/java/SeleniumDemo: Contains the Java source code for test automation.
 
 Clone Git project
 
-git clone https://github.com/geloaranzamendez/AmaysimQA
+git clone https://github.com/geloaranzamendez/SeleniumTesting
 
 Run the script
 
