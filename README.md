@@ -2,7 +2,7 @@
 
 Project Structure**
 
-**src/test/java/AmaysimQA:** Contains the Java source code for test automation.
+**src/test/java/TestNG/AmaysimQA:** Contains the Java source code for test automation.
 
 
 ***************Execution******************
